@@ -19,3 +19,8 @@ Depending on the level, the computer's moves may be random or slightly more stra
   🎮 [Click here to view and run on Replit](https://replit.com/@bhattacharyasre/RockPaperScissorsWith-DifficultyLevel?v=1)
 
 > ⚠️ When the page opens, click the green **"Run"** button at the top to start the game.
+> Follow the console instructions:
+   - Select difficulty level
+   - Enter your move (rock/paper/scissors)
+   - See who wins!
+   -  Exit anytime by stopping the program

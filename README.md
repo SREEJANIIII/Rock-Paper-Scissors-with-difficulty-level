@@ -32,7 +32,8 @@ Depending on the level, the computer's moves may be random or slightly more stra
 
 ## 📜 License
 
-This project is licensed under the [MIT License](LICENSE) – feel free to use it with credit!
+This project is licensed under the [MIT License](LICENSE) – feel free to use it with credit! 
+Give a ⭐️ if you liked it!
 
 ## 🤍 Author
 

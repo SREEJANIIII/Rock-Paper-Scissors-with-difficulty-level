@@ -14,7 +14,7 @@ Depending on the level, the computer's moves may be random or slightly more stra
 - 🙋 Friendly user prompts and emoji-enhanced console
 - 🚫 Robust input validation
 
-- ## 🎮 Play Now
+## 🎮 Play Now
 
   🎮 [Click here to view and run on Replit](https://replit.com/@bhattacharyasre/RockPaperScissorsWith-DifficultyLevel?v=1)
 
@@ -25,7 +25,7 @@ Depending on the level, the computer's moves may be random or slightly more stra
    - See who wins!
    -  Exit anytime by stopping the program
 
--  ## 🛠️ Tech Used
+## 🛠️ Tech Used
 
 - Language: Java 🧑‍💻
 - Platform: Console

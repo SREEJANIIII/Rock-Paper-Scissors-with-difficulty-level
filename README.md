@@ -8,5 +8,7 @@
 - 🚫 Robust input validation
 
 - ## 🎮 Play Now
-- 
-[Click to play on Replit](https://replit.com/@bhattacharyasre/RockPaperScissorsWith-DifficultyLevel?v=1)
+
+  🎮 [Click here to view and run on Replit](https://replit.com/@bhattacharyasre/RockPaperScissorsWith-DifficultyLevel?v=1)
+
+> ⚠️ When the page opens, click the green **"Run"** button at the top to start the game.

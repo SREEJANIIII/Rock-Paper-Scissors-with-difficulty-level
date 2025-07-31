@@ -1,4 +1,11 @@
 # 🎮 Rock Paper Scissors Game (with Difficulty Levels)
+This is a simple Java-based Rock-Paper-Scissors game where the user can choose between:
+- Easy 😌
+- Medium 😐
+- Hard 😈
+
+Depending on the level, the computer's moves may be random or slightly more strategic.
+
 
 ## 💡 Features
 

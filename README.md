@@ -29,3 +29,11 @@ Depending on the level, the computer's moves may be random or slightly more stra
 
 - Language: Java 🧑‍💻
 - Platform: Console
+
+## 📜 License
+
+This project is licensed under the [MIT License](LICENSE) – feel free to use it with credit!
+
+## 🤍 Author
+
+Made with 💻 and love by [Sreejani Bhattacharya](https://github.com/bhattacharyasre)

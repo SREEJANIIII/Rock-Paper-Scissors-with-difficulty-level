@@ -24,3 +24,8 @@ Depending on the level, the computer's moves may be random or slightly more stra
    - Enter your move (rock/paper/scissors)
    - See who wins!
    -  Exit anytime by stopping the program
+
+-  ## 🛠️ Tech Used
+
+- Language: Java 🧑‍💻
+- Platform: Console

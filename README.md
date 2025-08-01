@@ -37,4 +37,4 @@ Give a ⭐️ if you liked it!
 
 ## 🤍 Author
 
-Made with 💻 and love by [Sreejani Bhattacharya](https://github.com/bhattacharyasre)
+Made with 💻 and love by [Sreejani Bhattacharya](https://github.com/SREEJANIIII)

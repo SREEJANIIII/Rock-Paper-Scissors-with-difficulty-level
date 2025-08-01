@@ -16,7 +16,7 @@ Depending on the level, the computer's moves may be random or slightly more stra
 
 ## 🎮 Play Now
 
-  🎮 [Click here to view and run on Replit](https://replit.com/@bhattacharyasre/Rock-Paper-Scissors-with-difficulty-level?v=1)
+  🎮 [Click here to view and run on Replit](https://replit.com/@bhattacharyasre/Rock-Paper-Scissors-with-difficulty-level)
 
 > ⚠️ When the page opens, click the green **"Run"** button at the top to start the game.
 > Follow the console instructions:

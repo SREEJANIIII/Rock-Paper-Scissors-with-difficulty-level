@@ -24,7 +24,7 @@ Depending on the level, the computer's moves may be random or slightly more stra
    - Enter your move (rock/paper/scissors)
    - See who wins!
    -  Exit anytime by stopping the program
-   -  
+
 ## 📁 Main Code File
 
 ➡️ [Click here to view `Main.java`](https://github.com/SREEJANIIII/Rock-Paper-Scissors-with-difficulty-level/blob/main/Main.java)

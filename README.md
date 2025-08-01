@@ -39,6 +39,6 @@ Depending on the level, the computer's moves may be random or slightly more stra
 This project is licensed under the [MIT License](LICENSE) – feel free to use it with credit! 
 Give a ⭐️ if you liked it!
 
-## 🤍 Author
+## 👩‍💻  Author
 
-Made with 💻 and love by [Sreejani Bhattacharya](https://github.com/SREEJANIIII)
+Made with 💻 and love🤍 by [Sreejani Bhattacharya](https://github.com/SREEJANIIII)
